@@ -24,9 +24,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  * ======================================================================== */
-require('jquery');
+const jQuery = require('jquery');
+const $ = jQuery;
 
-+function ($) {
++function () {
   'use strict';
 
   // VALIDATOR CLASS DEFINITION
