@@ -412,4 +412,4 @@ const $ = jQuery;
     })
   })
 
-}(jQuery);
+}(require('jquery'));
