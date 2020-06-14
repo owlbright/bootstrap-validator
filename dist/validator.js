@@ -5,6 +5,7 @@
  *
  * https://github.com/1000hz/bootstrap-validator
  */
+require('jquery');
 
 +function ($) {
   'use strict';
