@@ -5,8 +5,6 @@
  *
  * https://github.com/1000hz/bootstrap-validator
  */
-const jQuery = require('jquery');
-const $ = jQuery;
 
 +function () {
   'use strict';
@@ -393,4 +391,4 @@ const $ = jQuery;
     })
   })
 
-}(jQuery);
+}(require('jquery'));
