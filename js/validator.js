@@ -24,9 +24,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  * ======================================================================== */
-const jQuery = require('jquery');
-const $ = jQuery;
-
 +function () {
   'use strict';
 
