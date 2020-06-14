@@ -5,9 +5,10 @@
  *
  * https://github.com/1000hz/bootstrap-validator
  */
-require('jquery');
+const jQuery = require('jquery');
+const $ = jQuery;
 
-+function ($) {
++function () {
   'use strict';
 
   // VALIDATOR CLASS DEFINITION
